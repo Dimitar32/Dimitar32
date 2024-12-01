@@ -17,8 +17,9 @@
 </p>
 
 ## 📊 GitHub Stats
+<!--
 ![Dimitar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dimitar32&show_icons=true&theme=radical)
-
+-->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitar32&layout=compact&theme=radical)
 
 <!--
