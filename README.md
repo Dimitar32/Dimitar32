@@ -10,13 +10,10 @@
 <p align="left">
   
   <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C# Logo Modern" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Black Logo" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Logo" width="50"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server Minimal Logo" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40"/>
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Black Logo" width="50"/>
 </p>
 
 ## 📊 GitHub Stats
@@ -24,6 +21,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitar32&layout=compact&theme=radical)
 
+<!--
 ## 🏆 Achievements
 - 🌟 Built and contributed to multiple university projects using design patterns.
 - 📖 Created educational resources for beginner programmers.
@@ -34,8 +32,7 @@
 - [Plovdiv University Design Patterns](https://github.com/Dimitar32/Plovdiv_University_DesignPatternsProject)
 - [Simple Drawing Application](https://github.com/Dimitar32/Plovdiv_University_DrawProject)
 - [Database Optimization Project](https://github.com/Dimitar32/DatabaseOptimizationProject)
-
+-->
 ## 📬 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/Dimitar32/)
-- 🌐 [Portfolio](https://dimitar32.github.io)
-- ✉️ dimitar32@example.com
+- 💼 [LinkedIn]([https://www.linkedin.com/in/Dimitar32/](https://www.linkedin.com/in/dimitar-ivanov-a1b49a232/))
+- ✉️ dimitarivanov2525@gmail.com
