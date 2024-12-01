@@ -34,5 +34,5 @@
 - [Database Optimization Project](https://github.com/Dimitar32/DatabaseOptimizationProject)
 -->
 ## 📬 Let's Connect!
-- 💼 [LinkedIn]([https://www.linkedin.com/in/Dimitar32/](https://www.linkedin.com/in/dimitar-ivanov-a1b49a232/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/dimitar32/)
 - ✉️ dimitarivanov2525@gmail.com
