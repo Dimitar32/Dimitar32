@@ -2,13 +2,13 @@
 
 ## 🚀 About Me
 - 🌟 Junior Database Developer with experience in SQL Server, database optimization, and backend development.
-- 🎓 Informatics student at Plovdiv University.
+- 🎓 Informatics student at **Plovdiv University**.
+- 📅 22 years old.
 - 💻 Passionate about software development and database design.
 - 🛠️ Always learning new technologies to improve my skills.
 
 ## 🛠️ Technologies and Tools
 <p align="left">
-  
   <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C# Logo Modern" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Logo" width="50"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server Minimal Logo" width="50"/>
