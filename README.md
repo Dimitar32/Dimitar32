@@ -4,7 +4,7 @@
 - 🌟 Junior Database Developer with experience in SQL Server, database optimization, and backend development.
 - 🎓 4th year Informatics student at **Plovdiv University**.
 - 📅 22 years old.
-- 💻 Passionate about software development and database design.
+- 💻 Passionate about software development, database design and AI.
 - 🛠️ Always learning new technologies to improve my skills.
 
 ## 🛠️ Technologies and Tools
