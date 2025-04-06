@@ -16,12 +16,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Black Logo" width="50"/>
 </p>
 
-## 📊 GitHub Stats
-<!--
-![Dimitar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dimitar32&show_icons=true&theme=radical)
--->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitar32&layout=compact&theme=radical)
-
 <!--
 ## 🏆 Achievements
 - 🌟 Built and contributed to multiple university projects using design patterns.
