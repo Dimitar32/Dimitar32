@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Dimitar! 
 
 ## 🚀 About Me
-- 🌟 Junior Database Developer with experience in SQL Server, database optimization, and backend development.
+- 🌟 Database Developer with experience in SQL Server, database optimization, and backend development.
 - 🎓 4th year Informatics student at **Plovdiv University**.
 - 📅 22 years old.
 - 💻 Passionate about software development, database design and AI.
