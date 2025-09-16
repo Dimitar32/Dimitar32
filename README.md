@@ -9,10 +9,9 @@
 
 ## 🛠️ Technologies and Tools
 <p align="left">
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server Minimal Logo" width="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C# Logo Modern" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Logo" width="50"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server Minimal Logo" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Black Logo" width="50"/>
 </p>
 
