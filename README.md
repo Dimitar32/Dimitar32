@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 🌟 Database Developer with experience in SQL Server, database optimization, SQL Server Reporting Services and backend development.
 - 🎓 Bachelor Informatics at **Plovdiv University**.
-- 📅 22 years old.
+- 📅 23 years old.
 - 💻 Passionate about software development, database design, data engineering and AI.
 - 🛠️ Always learning new technologies to improve my skills.
 
